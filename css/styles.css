@@ -11,8 +11,8 @@ a {
 ul, ol {
     list-style: none;
 }
-
-.visually-hidden {
+ 
+/* .visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -23,6 +23,7 @@ ul, ol {
     clip-path: inset(100%);
     overflow: hidden;
   }
+*/
 
 /* _____________HEADER______________ */
 
